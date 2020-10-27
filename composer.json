@@ -1,0 +1,14 @@
+{
+    "name": "btam06/receipt",
+    "description": "Transactable model logger",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Avery Tam",
+            "email": "btam06@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
